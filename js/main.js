@@ -1,3 +1,7 @@
+/**
+ * 全景看房js
+ * Created by 890 on 2016-10-12.
+ */
 var o = new Orienter();
 o.orient = orienter;
 var camera, scene, renderer;

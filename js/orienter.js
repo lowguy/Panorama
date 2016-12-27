@@ -1,9 +1,7 @@
-/*!
- * VERSION: 0.2.0
- * DATE: 2016-10-20
- * GIT: https://github.com/shrekshrek/orienter
- * @author: Shrek.wang
- **/
+/**
+ * 全景看房js
+ * Created by 890 on 2016-10-12.
+ */
 
 !
     function(i) {
